@@ -6,12 +6,10 @@ import Footer from './components/Footer';
 import Certified from './components/Certified';
 import Clients from './components/Clients';
 import Testimonials from './components/Testimonials';
-// import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <div>
-      {/* <Navbar /> */}
+    <>
       <Header />
       <Service />
       <CaseStudies />
@@ -20,7 +18,7 @@ const App = () => {
       <Contact />
       <Certified />
       <Footer />
-    </div>
+    </>
   );
 };
 

@@ -1692,18 +1692,8 @@ option {
     font-weight: 400;
   }
 
-  .slider {
-    overflow: visible;
-    width: 100%;
-    margin-right: 4%;
-  }
-
   .swiper-wrapper {
     width: 100%;
-  }
-
-  .blendshader {
-    margin-left: auto;
   }
 
   .fancysprinklescase {
@@ -1883,5 +1873,10 @@ option {
     margin-right: 4%;
     margin-bottom: 10%;
     font-size: 16px;
+  }
+
+  body {
+    width: 100%;
+    margin: 0 auto;
   }
 }
