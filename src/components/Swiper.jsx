@@ -20,10 +20,7 @@ export default function App() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <a
-            href="case-study-fancy-sprinkles.html"
-            className="fancysprinklescase w-inline-block"
-          >
+          <a href="#" className="fancysprinklescase w-inline-block">
             <div className="casecardspace">
               <div className="coname">Fancy Sprinkles</div>
               <div className="b2slide">
