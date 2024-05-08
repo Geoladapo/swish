@@ -36,8 +36,6 @@ export default function App() {
             </div>
           </a>
         </SwiperSlide>
-        <SwiperSlide>Slide 3</SwiperSlide>
-        <SwiperSlide>Slide 3</SwiperSlide>
       </Swiper>
     </>
   );
